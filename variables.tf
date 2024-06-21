@@ -1,4 +1,4 @@
-variable "ami" {
+ivariable "ami" {
     type = string
     default = "ami-0c0e147c706360bd7"
 }
